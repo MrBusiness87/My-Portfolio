@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/My-Portfolio/static/js/main.088fdc69.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.088fdc69.chunk.js.map",
+    "runtime-main.js": "/My-Portfolio/static/js/runtime-main.295a29ee.js",
+    "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.295a29ee.js.map",
+    "static/js/2.66421c61.chunk.js": "/My-Portfolio/static/js/2.66421c61.chunk.js",
+    "static/js/2.66421c61.chunk.js.map": "/My-Portfolio/static/js/2.66421c61.chunk.js.map",
+    "index.html": "/My-Portfolio/index.html",
+    "precache-manifest.8097732fff1ec5796f7ddfc6527b5e66.js": "/My-Portfolio/precache-manifest.8097732fff1ec5796f7ddfc6527b5e66.js",
+    "service-worker.js": "/My-Portfolio/service-worker.js",
+    "static/js/2.66421c61.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.66421c61.chunk.js.LICENSE.txt",
+    "static/media/Google thumbnail.jpg": "/My-Portfolio/static/media/Google thumbnail.2fd98bd9.jpg",
+    "static/media/LINKEDIN thumbnail.jpg": "/My-Portfolio/static/media/LINKEDIN thumbnail.b19f54dd.jpg",
+    "static/media/NOTE thumbnail.png": "/My-Portfolio/static/media/NOTE thumbnail.67279576.png",
+    "static/media/Project2.png": "/My-Portfolio/static/media/Project2.b57aa82f.png",
+    "static/media/QUIZ thumbnail.png": "/My-Portfolio/static/media/QUIZ thumbnail.185a7b9b.png",
+    "static/media/READMEGEN thumbnail.png": "/My-Portfolio/static/media/READMEGEN thumbnail.4cdcacb2.png",
+    "static/media/SF-thumbnail.jpg": "/My-Portfolio/static/media/SF-thumbnail.fcd96299.jpg",
+    "static/media/SQL_Employee_Tracker_GIF.gif": "/My-Portfolio/static/media/SQL_Employee_Tracker_GIF.7a08751a.gif",
+    "static/media/Scratch thumbnail.jpg": "/My-Portfolio/static/media/Scratch thumbnail.54b20d26.jpg",
+    "static/media/TEMPLATE thumbnail.png": "/My-Portfolio/static/media/TEMPLATE thumbnail.438ffb6c.png",
+    "static/media/WEATHER thumbnail.png": "/My-Portfolio/static/media/WEATHER thumbnail.c287fbee.png",
+    "static/media/WORKDAY thumbnail.png": "/My-Portfolio/static/media/WORKDAY thumbnail.afdd124f.png",
+    "static/media/candp.jpg": "/My-Portfolio/static/media/candp.626b1321.jpg",
+    "static/media/nodejs.png": "/My-Portfolio/static/media/nodejs.47c9ef41.png",
+    "static/media/profile.jpg": "/My-Portfolio/static/media/profile.17b035f1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.295a29ee.js",
+    "static/js/2.66421c61.chunk.js",
+    "static/js/main.088fdc69.chunk.js"
+  ]
+}
