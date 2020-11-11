@@ -32,7 +32,7 @@ function About() {
         <li><a href="https://www.linkedin.com/in/borjanbartula" target="_blank" rel="noopener noreferrer">LINKEDIN PROFILE</a></li>
         <li>Email: bbartula87@gmail.com</li>
         <li>Phone#: (919) 332-4516</li>
-        <li><a href="../assets/RESUME T.pdf" target="_blank" download>
+        <li><a href="../assets/RESUME T.pdf" target="_blank" download >
           CLICK HERE TO<br />DOWNLOAD RESUME
         </a></li>
       </ul>
