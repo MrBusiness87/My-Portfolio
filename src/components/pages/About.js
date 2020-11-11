@@ -35,6 +35,7 @@ function About() {
         <li><a href="../assets/RESUME T.pdf" target="_blank" download >
           CLICK HERE TO<br />DOWNLOAD RESUME
         </a></li>
+        <li><a href="https://drive.google.com/file/d/1TuR12F2I3azdH0z1yq5aB_T3HVoAvVsi/view?usp=sharing">CLICK HERE TO<br />VIEW RESUME</a></li>
       </ul>
       <p class="cats"><img src={require ("../assets/candp.jpg")} class="catsStyle" alt="cats" /></p>
     </p>
